@@ -1,6 +1,6 @@
 # DataScience_Projects
 
-Here are some guided projects [Datacamp](https://www.datacamp.com/home) Data Science Path.
+Here are some guided projects from [Datacamp](https://www.datacamp.com/home) Data Science Path.
 
 ### 1. [Exploring the Bitcoin cryptocurrency market](./1_Bitcoin_Cryptocurrency_Market/1_Bitcoin_Cryptocurrency_Market.ipynb)
 
