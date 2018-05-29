@@ -1,4 +1,4 @@
-# DataScience_Projects
+# DataCamp Projects
 
 Here are some guided projects from [Datacamp](https://www.datacamp.com/home) Data Science Path.
 
