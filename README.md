@@ -11,6 +11,7 @@ Here are some guided projects from [Datacamp](https://www.datacamp.com/home) Dat
 
 ### 3. [A new era of Data Analysis in Baseball](./3.Data_Analysis_Baseball)
 
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
