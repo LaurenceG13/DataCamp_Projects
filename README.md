@@ -7,8 +7,7 @@ Here are some guided projects from [Datacamp](https://www.datacamp.com/home) Dat
 <img src="./1_Bitcoin_Cryptocurrency_Market/img/bitcoint_market_cap_2017.png" alt="Bitcoin Market Cap 2017">
 
 ### 2. [Risk and Returns: The Sharpe Ratio](./2_The_Sharpe_Ratio)
-
-s<img src="./2_The_Sharpe_Ratio/img/sharpe-ratio.png" alt="Sharpe Ratio explained">
+<img src="./2_The_Sharpe_Ratio/img/sharpe-ratio.png" alt="Sharpe Ratio explained">
 
 ### 3. [A new era of Data Analysis in Baseball](./3.Data_Analysis_Baseball)
 <body>
