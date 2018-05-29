@@ -10,5 +10,5 @@ Here are some guided projects from [Datacamp](https://www.datacamp.com/home) Dat
 
 ### 3. [A new era of Data Analysis in Baseball](./3.Data_Analysis_Baseball)
 <p float="left">
-  <img src="./3_Data_analysis_Baseball/img/stanton_wide.jpg" alt="Stanton" width="100"><img src="./3_Data_analysis_Baseball/img/judge_wide.jpg" alt="Judge" width="100">
+  <img src="./3_Data_analysis_Baseball/img/stanton_wide.jpg" alt="Stanton" width="250px"><img src="./3_Data_analysis_Baseball/img/judge_wide.jpg" alt="Judge" width="250px">
 </p>
