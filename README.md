@@ -12,6 +12,8 @@ s<img src="./2_The_Sharpe_Ratio/img/sharpe-ratio.png" alt="Sharpe Ratio explaine
 
 ### 3. [A new era of Data Analysis in Baseball](./3.Data_Analysis_Baseball)
 <body>
-  <img src="./3_Data_analysis_Baseball/img/stanton_wide.jpg" alt="Stanton">
-  <img src="./3_Data_analysis_Baseball/img/judge_wide.jpg" alt="Judge">
+  <figure>
+    <img src="./3_Data_analysis_Baseball/img/stanton_wide.jpg" alt="Stanton">
+    <img src="./3_Data_analysis_Baseball/img/judge_wide.jpg" alt="Judge">
+  </figure>
 </body>
