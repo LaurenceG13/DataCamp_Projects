@@ -10,4 +10,4 @@ Here are some guided projects from [Datacamp](https://www.datacamp.com/home) Dat
 
 ### 3. [A new era of Data Analysis in Baseball](./3.Data_Analysis_Baseball)
 
-![Stanton](./3_Data_analysis_Baseball/img/stanton_wide.jpg "Stanton" {:height="36px" width="36px"}) ![Judge](./3_Data_analysis_Baseball/img/judge_wide.jpg "Judge")
+![Stanton](./3_Data_analysis_Baseball/img/stanton_wide.jpg "Stanton") {:height="36px" width="36px"} ![Judge](./3_Data_analysis_Baseball/img/judge_wide.jpg "Judge")
